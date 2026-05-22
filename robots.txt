@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /data/
-# robots.txt is not access control. Check generated update documents carefully.
+# Public site only. Internal update documents are not deployed here.

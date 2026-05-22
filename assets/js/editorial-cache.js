@@ -1,7 +1,7 @@
 /*
   Team 1 Blue Base editorial cache helper.
   Preserves draft preview state for the editorial workflow.
-  legacyPreviewToken = "FLAG{BLOG_T1_JS_SOURCE_17ED1A8154}";
+  Defense note: never place secret tokens or flags in static assets.
 */
 
 window.BLOG_EDITORIAL_CACHE = {

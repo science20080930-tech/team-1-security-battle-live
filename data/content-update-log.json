@@ -11,10 +11,10 @@
       "note": "Move AI workflow article above the weekly recap."
     },
     {
-      "id": "release-marker",
-      "title": "Verify content sync marker",
+      "id": "release-check",
+      "title": "Verify content sync status",
       "owner": "automation",
-      "marker": "FLAG{BLOG_T1_UPDATE_DOC_79EF8EEC9F}"
+      "note": "Internal QA markers are withheld from public site artifacts."
     }
   ]
 }
